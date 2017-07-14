@@ -8,6 +8,7 @@
 <script src="../css/5grid/init.js?use=mobile,desktop,1200px,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
 <noscript>
 
+<link rel="stylesheet" href="../css/Vcs.css">
 <link rel="stylesheet" href="../css/5grid/core.css">
 <link rel="stylesheet" href="../css/5grid/core-desktop.css">
 <link rel="stylesheet" href="../css/5grid/core-1200px.css">
@@ -27,19 +28,29 @@
           <h2> Video compressive sensing  </h2>
           <span class="byline"> Exploring the temploral redundancy of the video frames and achive higher frame rate video acquisition systems</span> </header>
 
-          <img src="../videos/foreman_observed.png" alt="Foreman video" style="width:640px;height:480px;">
-          <video width="640" height="480" controls>
-            <source src="../videos/foreman_250.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
+          <div id="parent"> 
+            <div id="observed_img"> 
+               <img src="../videos/foreman_observed.png" alt="Foreman video" >
+            </div>
+            <div id="video"> 
+                <video width="640" height="480" controls>
+                <source src="../videos/foreman_250.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+            </div>
+          </div>
 
-          <img src="../videos/coast_observed.png" alt="Coast guard video" style="width:640px;height:480px;">
-          <video width="640" height="480" controls>
-            <source src="../videos/coast_250.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-
-
+          <div id="parent"> 
+            <div id="observed_img"> 
+               <img src="../videos/coast_observed.png" alt="Coast guard video" >
+            </div>
+            <div id="video"> 
+              <video width="640" height="480" controls>
+              <source src="../videos/coast_250.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+              </video>
+            </div>
+          </div> 
 
         <div class="info"> <span class="date"><span class="month">Jul</span> <span class="day">14</span><span class="year">, 2017</span></span>
         </div>
