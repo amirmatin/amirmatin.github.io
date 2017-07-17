@@ -315,5 +315,9 @@
     max-width: 120px;
     max-height: 250px;
     padding-left: 2px;
+}
 
+#figs_caps {
+  padding: 10px;
+  margin: auto;
 }
