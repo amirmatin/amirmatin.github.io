@@ -298,3 +298,20 @@
 			height: 0.5em;
 			margin: 0 0 2em 0;
 		}
+
+
+#parent {
+  border: 3px double blue;
+}
+#video {
+    display: inline-block;
+    max-width: 500px;
+    max-height: 650px;
+}
+#observed_img {
+    display: inline-block;
+    max-width: 150px;
+    max-height: 250px;
+    padding-left: 2px;
+    padding-right: : 2px;
+}
