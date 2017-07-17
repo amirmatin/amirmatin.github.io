@@ -770,16 +770,17 @@ li{
 }
 
 
-#video {
-    position: relative;
-    margin-right: 85px;
- 
-}
 
+#parent {
+    border: 1px solid blue;
+}
+#video {
+    display: inline-block;
+    width:120px;
+    height:120px;
+    border: 1px solid red;
+}
 #observed_img {
-    float: right;
-    position: relative;
-    text-align: left;
-    width: 80px;
-   
+    display: inline-block;
+    border: 1px solid green;
 }
