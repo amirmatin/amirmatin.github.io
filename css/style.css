@@ -777,12 +777,12 @@ li{
 #video {
     display: inline-block;
     max-width: 400px;
-    max-height: 250px;
+    max-height: 650px;
    
 }
 #observed_img {
     display: inline-block;
     border: 1px solid green;
     max-width: 200px;
-    max-height: 650px;
+    max-height: 250px;
 }
