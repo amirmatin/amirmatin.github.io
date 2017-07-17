@@ -319,5 +319,6 @@
 
 #figs_caps {
   padding: 10px;
+  max-width: 300px;
   margin: auto;
 }
