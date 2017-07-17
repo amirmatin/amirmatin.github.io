@@ -302,6 +302,7 @@
 
 #parent {
   border: 3px double blue;
+  padding:10px 
 }
 #video {
     display: inline-block;
@@ -309,6 +310,7 @@
     max-height: 650px;
     padding: 20px;
 }
+
 #observed_img {
     display: inline-block;
     max-width: 150px;
