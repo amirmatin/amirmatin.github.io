@@ -307,11 +307,12 @@
     display: inline-block;
     max-width: 500px;
     max-height: 650px;
+    padding: 20px;
 }
 #observed_img {
     display: inline-block;
     max-width: 150px;
     max-height: 250px;
-    padding-left: 2px;
-    padding-right: : 2px;
+    padding-left: 20px;
+
 }
