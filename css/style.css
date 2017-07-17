@@ -776,11 +776,13 @@ li{
 }
 #video {
     display: inline-block;
-    max-width: 400px;
+    max-width: 500px;
+    max-height: 650px;
    
 }
 #observed_img {
     display: inline-block;
     border: 1px solid green;
     max-width: 200px;
+    max-height: 650px;
 }
