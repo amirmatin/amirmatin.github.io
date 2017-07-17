@@ -301,8 +301,8 @@
 
 
 #parent {
-  border: 3px double blue;
-  padding:10px 
+  border: 3px double #006271;
+  padding: 10px 
 }
 #video {
     display: inline-block;
