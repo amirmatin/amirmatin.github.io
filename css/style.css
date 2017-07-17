@@ -769,3 +769,14 @@ li{
   margin: 10px 0;
 }
 
+.parent {
+  display: flex;
+}
+
+.observed_img {
+  width: 250px;
+}
+
+.vid {
+  flex: 1;
+}
