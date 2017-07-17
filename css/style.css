@@ -783,4 +783,6 @@ li{
     display: inline-block;
     max-width: 150px;
     max-height: 250px;
+    padding-left: 2px;
+    padding-right: : 2px;
 }
