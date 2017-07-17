@@ -768,3 +768,22 @@ input[type=submit]:hover {
 li{
   margin: 10px 0;
 }
+
+
+.parent {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 600px;
+   height: 400px;
+   border: 1px solid black;
+}  
+
+.observed_img {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
+}
