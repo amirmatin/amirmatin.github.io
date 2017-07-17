@@ -769,14 +769,17 @@ li{
   margin: 10px 0;
 }
 
-.parent {
-  display: flex;
+
+#video {
+    position: relative;
+    margin-right: 85px;
+    background-color: red;
 }
 
-.observed_img {
-  max-width: 250px;
-}
-
-.vid {
-  flex: 1;
+#observed_img {
+    float: right;
+    position: relative;
+    text-align: left;
+    width: 80px;
+    background-color: yellow;
 }
