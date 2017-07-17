@@ -772,7 +772,7 @@ li{
 
 
 #parent {
-    border: 3px solid blue;
+    border: 3px double blue;
 }
 #video {
     display: inline-block;
