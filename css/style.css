@@ -774,7 +774,7 @@ li{
 }
 
 .observed_img {
-  width: 250px;
+  max-width: 250px;
 }
 
 .vid {
