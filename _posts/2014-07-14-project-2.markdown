@@ -10,9 +10,7 @@ alt: image-alt
 project-date: April 2017
 client: Start Bootstrap
 category: Web Development
-description: Blind Nonlinearity Equalization by Machine
-Learning based Clustering for Single- and
-Multi-Channel Coherent Optical OFDM.
+description: Blind Nonlinearity Equalization by Machine Learning based Clustering for Single- and Multi-Channel Coherent Optical OFDM.
 publication-url: hhttp://ieeexplore.ieee.org/document/8125098/
 
 ---
