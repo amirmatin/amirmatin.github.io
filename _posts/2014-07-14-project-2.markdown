@@ -4,8 +4,8 @@ subtitle: Industrial surface inspection
 layout: default
 modal-id: 2
 date: 2017-07-20
-img: OFDM.png
-thumbnail: OFDM.png
+img: OFDM.PNG
+thumbnail: OFDM.PNG
 alt: image-alt
 project-date: April 2017
 client: Start Bootstrap
