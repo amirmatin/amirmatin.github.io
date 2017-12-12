@@ -1,17 +1,18 @@
 ---
-title: Machine vision
+title: Machine Learning for coherent optical OFDM
 subtitle: Industrial surface inspection
 layout: default
 modal-id: 2
-date: 2015-07-01
-img: drum.png
-thumbnail: drum-thumbnail.png
+date: 2017-07-20
+img: OFDM.png
+thumbnail: OFDM.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2017
 client: Start Bootstrap
 category: Web Development
-description: Designed world's fastest surface inspector capable of detecting defects as small as 10 µm² in a 3 cm field-of-view on moving objects at speeds up to 1,200 m/s.
-publication: Ultrafast dark-field surface inspection with hybrid-dispersion laser scanning
-publication-url: http://scitation.aip.org/content/aip/journal/apl/104/25/10.1063/1.4885147
+description: Blind Nonlinearity Equalization by Machine
+Learning based Clustering for Single- and
+Multi-Channel Coherent Optical OFDM.
+publication-url: hhttp://ieeexplore.ieee.org/document/8125098/
 
 ---
