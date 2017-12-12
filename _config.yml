@@ -3,9 +3,9 @@ baseurl:
 timezone: America/Los_Angeles
 
 # Site settings
-title: Ata Mahjoubfar
-email: ata.m@ucla.edu
-description: "This is Ata Mahjoubfar's personal website. He is a data capture and analytics expert."
+title: Amir Matin
+email: amiralimtn@gmail.com
+description: "This is Amir Matin's personal website..."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,35 +15,12 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Ata Mahjoubfar
+- name: Amir Matin
   pic: 1
   position: Data Scientist
-  social:
-    - title: twitter
-      url: https://twitter.com/atamahjoubfar
-    - title: facebook
-      url: https://www.facebook.com/atamahjoubfar
-    - title: stack-overflow
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/atamahjoubfar
-  - title: github
-    url: https://github.com/atamahjoubfar
-  - title: graduation-cap
-    url: https://scholar.google.com/citations?user=-Hsvgm4AAAAJ&hl=en&oi=ao
-  - title: twitter
-    url: https://twitter.com/atamahjoubfar
-  - title: facebook
-    url: http://www.facebook.com/atamahjoubfar
+    url: https://uk.linkedin.com/in/amirali-matin-78392951
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 420 Westwood Plaza
-  - line: Los Angeles, CA 90095
-
-# Build settings
-markdown: kramdown
-permalink: pretty
